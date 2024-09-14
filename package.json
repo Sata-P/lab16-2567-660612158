@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "lab16": "file:",
     "lodash": "^4.17.21",
     "next": "14.2.9",
     "react": "^18",
